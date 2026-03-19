@@ -59,6 +59,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+<img width="1397" height="705" alt="Screenshot 2026-03-19 210622" src="https://github.com/user-attachments/assets/d69d78a4-90fc-419f-933c-0531a8940abc" />
+<img width="1415" height="721" alt="Screenshot 2026-03-19 210657" src="https://github.com/user-attachments/assets/8d51807c-0954-48a3-8df0-2c3c7af68472" />
+<img width="1372" height="772" alt="Screenshot 2026-03-19 210723" src="https://github.com/user-attachments/assets/9a8dda64-92fc-4d85-819d-6946be4085b9" />
+<img width="1412" height="765" alt="Screenshot 2026-03-19 210800" src="https://github.com/user-attachments/assets/31c9049d-2ba2-4af4-871b-ebcc2e0c92ca" />
+<img width="1419" height="775" alt="Screenshot 2026-03-19 210823" src="https://github.com/user-attachments/assets/24dec68d-cce8-41a1-9bb3-5b426af82b45" />
+
 
 ### Name: D.JANANI
 ### Register Number:25015838
